@@ -38,12 +38,12 @@ A single gate. To every model that exists, and every model that will.
 
 Behind one OpenAI-compatible endpoint live six instruments, each named for a relic of Asgard, each answering an ancient question of the AI stack:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Bifröst** — *Where shall this request travel?*
-&nbsp;&nbsp;&nbsp;&nbsp;**Aegis** — *How shall I shield what I serve?*
-&nbsp;&nbsp;&nbsp;&nbsp;**Sleipnir** — *How shall I never run short of strength?*
-&nbsp;&nbsp;&nbsp;&nbsp;**Forge** — *How shall I sharpen the words I send?*
-&nbsp;&nbsp;&nbsp;&nbsp;**Gjallarhorn** — *What stirs across my realm?*
-&nbsp;&nbsp;&nbsp;&nbsp;**Compass** — *What is the cost of all this?*
+> **Bifröst** — *Where shall this request travel?*  
+> **Aegis** — *How shall I shield what I serve?*  
+> **Sleipnir** — *How shall I never run short of strength?*  
+> **Forge** — *How shall I sharpen the words I send?*  
+> **Gjallarhorn** — *What stirs across my realm?*  
+> **Compass** — *What is the cost of all this?*
 
 You may study each in our [documentation](https://github.com/logibricks-io/open-heimdall/tree/main/docs). Or you may simply point your application at Heimdall and forget the questions were ever yours to answer.
 
